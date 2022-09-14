@@ -11,7 +11,7 @@
 # How to: Access the Navigation Dock Panel (in a WinForms application)
 
 
-The complete description is available in the <a href="https://docs.devexpress.com/eXpressAppFramework/114550/application-shell-and-base-infrastructure/navigation/how-to-access-the-navigation-dock-panel-in-a-winforms-application?v=21.2">How to: Access the Navigation Dock Panel (in a WinForms Application)</a> topic.
+The complete description is available in the <a href="https://docs.devexpress.com/eXpressAppFramework/114550/application-shell-and-base-infrastructure/navigation/how-to-access-the-navigation-dock-panel-in-a-winforms-application?v=21.1">How to: Access the Navigation Dock Panel (in a WinForms Application)</a> topic.
 
 <br/>
 
